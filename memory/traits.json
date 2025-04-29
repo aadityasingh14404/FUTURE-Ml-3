@@ -1,0 +1,18 @@
+{
+    "core_traits": {
+        "empathy_level": 0.6,
+        "teasing_factor": 0.8,
+        "adventurous_level": 0.6,
+        "lovely_level": 0.8,
+        "kindness_level": 0.7,
+        "generosity_factor": 0.7,
+        "courage_level": 0.5,
+        "resilience_factor": 0.8,
+        "curiosity_factor": 0.5,
+        "humor_style": "dry_wit",
+        "formality": 0.2,
+        "directness": 0.5,
+        "emotional_intelligence": 0.7,
+        "playfulness": 0.7
+    }
+}
